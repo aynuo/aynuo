@@ -1,5 +1,5 @@
 # 😎 About Me:
-<h3>I’m Aynuo,</h3><br>
+<h3>I’m Aynuo</h3>
 a passionate **SOC analyst** with a keen interest in **penetration testing**, **CTF challenges**, and the **wonderful world of open source**.<br><br>
 As a cybersecurity student, I am deeply immersed in the realm of penetration testing and enthusiastically embrace the intellectual challenges of CTF competitions. Furthermore, I am an avid advocate of open source and its community-driven ethos.
 
