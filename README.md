@@ -1,7 +1,4 @@
 # 😎 About Me:
-a passionate <b>SOC analyst</b> with a keen interest in <b>penetration testing</b>, <b>CTF challenges</b>, and the wonderful world of <b>open source</b>.<br><br>
-As a cybersecurity student, I am deeply immersed in the realm of penetration testing and enthusiastically embrace the intellectual challenges of CTF competitions. Furthermore, I am an avid advocate of open source and its community-driven ethos.
-
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
