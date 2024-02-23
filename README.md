@@ -27,8 +27,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aynuo&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
-<p align="center"><img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aynuo&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Aynuo" /></p>
-<p><img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Aynuo&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Aynuo" /></p>
+<p align="center"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aynuo&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Aynuo" /></p>
+<p><img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Aynuo&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Aynuo" /></p>
 
 
 
