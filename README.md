@@ -10,7 +10,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                 ‖ a passionate <b>SOC analyst</b> with a keen interest in <b>penetration testing</b> ‖
+                 ‖ just a <b>Red Team Operator</b> with a small laptop. ‖
                 <br>
                  ✔ i love packets and malwares ✔
                  <br>
@@ -18,7 +18,7 @@
                 <br>
                 <br>
         </samp>
-        ❝ ѕє¢ 450 | ѕє¢ 503 | ѕρℓυηк | σωαѕρ | σѕ¢ρ | ρутнση | вα¢н ѕ¢ρ ❞
+        ❝ 04:21 ❞
 </p>
 
 ## 🌐 Socials:
